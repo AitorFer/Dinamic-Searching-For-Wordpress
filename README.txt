@@ -17,14 +17,14 @@ Este Repositorio se divide en 3 apartados
  -Grado Medio
     
   
-  En la p·gina principal encontramos 4 botones con cada una de las categorias a elegir y un buscador general. 
+  En la p√°gina principal encontramos 4 botones con cada una de las categorias a elegir y un buscador general. 
     
   Si escribimos en el buscador nos buscara dinamicamente resultados que coincidan con los caracteres buscados. 
     Nos buscara entre todos los grados disponibles(*Sin repetirse por nombre ya que hay muchos que se se llaman igual*)
     
    
 
- Depende en que boton pulsemos nos buscara con una consulta AJAX los cursos que coincidan con esa catgorÌa. Por  ejemplo: si pulsamos grado-medio encontraremos todos los grados medios disponibles.
+ Depende en que boton pulsemos nos buscara con una consulta AJAX los cursos que coincidan con esa catgor√≠a. Por  ejemplo: si pulsamos grado-medio encontraremos todos los grados medios disponibles.
     
     
 
@@ -52,5 +52,3 @@ Este Repositorio se divide en 3 apartados
  con el centro donde se imparte el grado o la carrera que hemos encontrado.
  
  
-
-/* Todo esta adaptado para trabajar en Wordpress en una pagina creada nueva */
